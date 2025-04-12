@@ -10,7 +10,9 @@
 ### 🌐 Sobre mí
 
 Soy **César**, Coordinador Académico en el Centro de Educación Virtual del Campus Copán - UNAH.  
-Mi trabajo se centra en **facilitar procesos académicos**, **integrar tecnología educativa** y buscar **soluciones digitales simples pero efectivas** para mejorar la experiencia docente y administrativa.
+Actualmente apoyo la gestión académica y la transformación digital en la educación superior desde [UNAH Gracias](https://www.facebook.com/UNAHGracias).
+
+Mi trabajo se centra en **facilitar procesos académicos**, **integrar herramientas digitales** y crear soluciones funcionales para docentes y estudiantes.
 
 ---
 
@@ -25,6 +27,7 @@ Mi trabajo se centra en **facilitar procesos académicos**, **integrar tecnolog�
 - 🧩 **Moodle** – Diseño y acompañamiento en entornos virtuales de aprendizaje  
 - 📊 **AppSheet** – Automatización de formularios, flujos y reportes  
 - 🗂 **Notion** – Gestión de proyectos, contenidos y seguimiento académico  
+- 🤖 **Microsoft Power Automate** – Integración y automatización de procesos administrativos  
 - 🧠 **AI & EdTech** – Exploración de herramientas emergentes en educación superior
 
 ---
@@ -39,7 +42,7 @@ Mi trabajo se centra en **facilitar procesos académicos**, **integrar tecnolog�
 ### ✍️ Actualmente
 
 - 📝 En proceso de redacción de artículos académicos  
-- 🎨 Diseñando un catálogo de **logos y recursos visuales educativos**  
+- 🎨 Diseñando un catálogo de **logos comerciales y recursos visuales educativos**  
 - 🤝 Asesorando a docentes en el uso de plataformas virtuales
 
 ---
