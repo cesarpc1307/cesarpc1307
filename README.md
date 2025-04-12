@@ -51,7 +51,7 @@ Mi trabajo se centra en **facilitar procesos académicos**, **integrar herramien
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
+    <img src="[https://img.icons8.com/doodle/40/000000/linkedin--v2.png](https://www.linkedin.com/in/cesarpineda1307/)" alt="LinkedIn" />
   </a>
 </p>
 
