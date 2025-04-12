@@ -10,7 +10,7 @@
 ### 🌐 Sobre mí
 
 Soy **César**, Coordinador Académico en el Centro de Educación Virtual del Campus Copán - UNAH.  
-Actualmente apoyo la gestión académica y la transformación digital en la educación superior desde [UNAH Gracias](https://www.facebook.com/UNAHGracias).
+Actualmente apoyo la gestión académica y la transformación digital en la educación superior desde <a href="https://www.facebook.com/UNAHGracias" target="_blank">UNAH Gracias</a>.
 
 Mi trabajo se centra en **facilitar procesos académicos**, **integrar herramientas digitales** y crear soluciones funcionales para docentes y estudiantes.
 
